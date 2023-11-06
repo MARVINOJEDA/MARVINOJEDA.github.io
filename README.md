@@ -1,6 +1,8 @@
 # MARVINOJEDA.github.io
 Curriculum
 **Curriculum vitae**
+
+
 **Marvin Rosas Ojeda**
 Historial laboral: Enero 2023-Actual, Ingeniero en TICs Programador| Reynosa, Mexico
 Formacion: 2023, Ingeniero en TICs| Tecnologia de la comunicacion e investigacion, Tec Reynosa, Reynosa, Mexico.
