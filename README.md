@@ -1,7 +1,7 @@
 # MARVINOJEDA.github.io
 Curriculum
 **Curriculum vitae**
-
+[![JORGE-ROSAS.jpg](https://i.postimg.cc/TPPyjMBr/JORGE-ROSAS.jpg)](https://postimg.cc/G4ZhrNL2)
 
 **Marvin Rosas Ojeda**
 Historial laboral:
